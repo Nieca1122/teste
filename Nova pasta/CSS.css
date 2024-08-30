@@ -1,0 +1,11 @@
+body {
+    font-family:"Zen Tokyo Zoo";
+    src: url:('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap');
+}
+h1{
+font-family:"Zen Tokyo Zoo";
+font-size:23pt;
+color:0000;
+text-shadow:3px 3px 3px rgb(10,5,2,10);
+padding:0;
+margin-bottom:0;}
